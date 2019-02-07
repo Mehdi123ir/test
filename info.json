@@ -1,10 +1,10 @@
 {
-  "name": "F-POS",
-  "description": "Persian POS-Tagger By  Mehdi Azarafza",
-  "type": "POS",
+  "name": "F-NER",
+  "description": "Named Entity Recognizer By  Mehdi Azarafza",
+  "type": "NER",
   "version": "0.1",
   "location": null,
-  "command": "F-POS.py",
+  "command": "F-NER.py",
   "extra_info": null,
-  "order": 0
+  "order": 1
 }
