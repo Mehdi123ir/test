@@ -1,0 +1,10 @@
+{
+  "name": "F-POS",
+  "description": "Persian POS-Tagger By  Mehdi Azarafza",
+  "type": "POS",
+  "version": "0.1",
+  "location": null,
+  "command": "F-POS.py",
+  "extra_info": null,
+  "order": 0
+}
